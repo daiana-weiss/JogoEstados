@@ -1,0 +1,26 @@
+Espirito Santo           Vitoria
+Minas Gerais             Belo Horizonte
+Rio de Janeiro           Rio de Janeiro
+Distrito Federal         Brasilia
+Sao Paulo                Sao Paulo
+Mato Grosso              Cuiaba
+Santa Catarina           Florianopolis
+Maranhao                 Sao Luis
+Ceara                    Fortaleza
+Bahia                    Salvador
+Tocantins                Palmas
+Para                     Belem
+Rio Grande do Sul        Porto Alegre
+Pernambuco               Recife
+Amazonas                 Manaus
+Mato Grosso do Sul       Campo Grande
+Acre                     Rio Branco
+Goias                    Goiania
+Paraiba                  Joao Pessoa
+Roraima                  Boa Vista
+Amapa                    Macapa
+Piaui                    Teresina
+Rondonia                 Porto Velho
+Alagoas                  Maceio
+Parana                   Curitiba
+Sergipe                  Aracaju
